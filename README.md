@@ -6,4 +6,4 @@ This board adds a [PCM5102A](http://www.ti.com/product/PCM5102A) audio DAC to yo
 
 ## Hardware Revision 00
 
-![RPI Fez DAC PCM5102A](https://raw.githubusercontent.com/phyx-be/RPI_FEZ_DAC_PCM5102A/master/RPI_FEZ_DAC_00/RPI_FEZ_DAC_00_PHOTO.PNG)
+![RPI Fez DAC PCM5102A](https://github.com/phyx-be/RPI_FEZ_DAC_PCM5102A/blob/master/RPI_FEZ_DAC_00/RPI_FEZ_DAC_00_PHOTO.png?raw=true)
